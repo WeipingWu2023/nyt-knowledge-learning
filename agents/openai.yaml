@@ -1,0 +1,4 @@
+interface:
+  display_name: NYT Knowledge & English Learning
+  short_description: Learn English and durable knowledge from NYT articles
+  default_prompt: Use the nyt-knowledge-learning skill to turn this NYT article into a structured Obsidian learning note.
